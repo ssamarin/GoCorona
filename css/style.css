@@ -2,6 +2,8 @@
 @import 'blocks/buttons.css';
 @import 'blocks/header.css';
 @import 'blocks/media.css';
+@import 'blocks/start.css';
+@import 'blocks/text-block.css';
 
 html {
   height: 100%;
