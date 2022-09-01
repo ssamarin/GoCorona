@@ -4,6 +4,7 @@
 @import 'blocks/media.css';
 @import 'blocks/start.css';
 @import 'blocks/text-block.css';
+@import 'blocks/stay-safe.css';
 
 html {
   height: 100%;
