@@ -6,6 +6,7 @@
 @import 'blocks/text-block.css';
 @import 'blocks/stay-safe.css';
 @import 'blocks/experts.css';
+@import 'blocks/healthcare.css';
 
 html {
   height: 100%;
